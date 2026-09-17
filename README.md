@@ -1,6 +1,7 @@
-# picgo-plugin-immich-up
+# [picgo-plugin-immich-up](https://ultart.cn/tools/13)
 
 PicList/PicGo 插件，用于将图片上传到 [Immich](https://immich.app) 自托管照片管理系统。
+
 
 ## 功能
 
